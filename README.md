@@ -2,7 +2,7 @@
 
 A command-line tool that scans a Shopify store's public storefront and flags features that commonly conflict with pre-order apps — quick add/buy buttons, bundles, subscription apps, and product recommendation widgets.
 
-Built for [Early Bird]([https://apps.shopify.com/early-bird-pre-order-manager]), a Shopify pre-order app, to speed up manual compatibility checks on merchant stores before or after they install the app.
+Built for [Early Bird](https://apps.shopify.com/early-bird-pre-order-manager), a Shopify pre-order app, to speed up manual compatibility checks on merchant stores before or after they install the app.
 
 ## What it does
 
